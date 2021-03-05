@@ -1,0 +1,83 @@
+body {
+    background: rgb(96, 255, 176);
+    font-size: 16px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: rgb(102, 153, 255);
+}
+
+h2 {
+    font-size: 24px;
+    text-align: left;
+    margin-left: 50px;
+}
+
+p {
+    font-size: 20px;
+    text-align: left;
+    margin-left: 70px;
+    margin-right: 70px;
+}
+
+img {
+    margin: 10px;
+    margin-left: 50px;
+}
+
+#greet {
+    position: absolute;
+    width: 300px;
+    right: 50px;
+    margin-bottom: 0px;
+}
+
+#logo {
+    position: absolute;
+    width: 500px;
+    top: 10px;
+    left: 30px;
+}
+
+.header {
+    background: rgb(238, 103, 148);
+    padding: 150px;
+    margin: 0px;
+    width: 100%;
+}
+
+.navbar {
+overflow: hidden;
+background-color: rgb(245, 224, 224);
+width: 100%;
+}
+
+.navbar a {
+color: rgb(0, 153, 204);
+font-size: 20px;
+padding: 0px 20px;
+text-align: left;
+text-decoration: none;
+}
+
+.navbar a:hover {
+    color: rgb(238, 103, 148);
+}
+
+.reader {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin-left: 70px;
+    margin-top: 70px;
+}
+
+.cannoli {
+    font-family: "Comic Sans MS", "Comic Sans", cursive;
+    color:rgb(238, 103, 148);
+    margin-left: 90px;
+    margin-right: 90px;
+}
+
+#angry {
+    font-family: "Comic Sans MS", "Comic Sans", cursive;
+    color:rgb(238, 103, 148);
+    margin-top: 500px;
+    font-size: 50px;
+}
